@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_action_info.png",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/drawable-hdpi/tile.9.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/drawable-hdpi/ic_launcher.png"
+    }
+]

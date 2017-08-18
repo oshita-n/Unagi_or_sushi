@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/layout/camera_connection_fragment_stylize.xml"
+    }
+]

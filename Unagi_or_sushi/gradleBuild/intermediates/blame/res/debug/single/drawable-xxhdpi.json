@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_info.png",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi/ic_action_info.png",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/gradleBuild/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/noriakioshita/Github/Unagi_or_sushi/Unagi_or_sushi/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

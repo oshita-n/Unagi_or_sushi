@@ -1,0 +1,4 @@
+#Sat Aug 19 02:29:47 JST 2017
+base.0=/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/noriakioshita/Github/tensorflow/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex
