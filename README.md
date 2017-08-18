@@ -1,6 +1,6 @@
 # うな重か寿司かどうかを判定するアプリ
   
-参考にしたサイトは任天堂のキャラクタを分類する以下の記事． 
+参考にしたサイトは任天堂のキャラクタを分類する以下の記事.  
 http://nilhcem.com/android/custom-tensorflow-classifier  
   
 ビルドにはndkとcmakeが必要です.  
